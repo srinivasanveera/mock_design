@@ -4633,3 +4633,13 @@ button {
   font-size: 20px;
   text-align: left;
 }
+
+
+
+.property-bottom-list{
+  display: none;
+}
+
+.property-desc{
+  display: none;
+}
